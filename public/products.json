@@ -1,0 +1,79 @@
+[
+  {
+    "key": "1",
+    "name": "car",
+    "price": "300",
+    "description": "strong and nice table",
+    "image": "car.jpeg"
+  },
+  {
+    "key": "2",
+    "name": "computer",
+    "price": "200",
+    "description": "strong and nice chair",
+    "image": "computer.jpeg"
+  },
+  {
+    "key": "3",
+    "name": "doll",
+    "price": "2000",
+    "description": "strong and nice desc",
+    "image": "doll.jpeg"
+  },
+  {
+    "key": "4",
+    "name": "nacklace",
+    "price": "390",
+    "description": "soft and calm down sofa",
+    "image": "necklace.webp"
+  },
+  {
+    "key": "5",
+    "name": "phone",
+    "price": "123",
+    "description": "white and beuteaful:)",
+    "image": "phone.jpeg"
+  },
+  {
+    "key": "6",
+    "name": "piano",
+    "price": "123",
+    "description": "white and beuteaful:)",
+    "image": "piano.jpeg"
+  },
+{ 
+  "key": "7",
+    "name": "ring",
+    "price": "123",
+    "description": "white and beuteaful:)",
+    "image": "ring.jpeg"
+  },
+  {
+    "key": "8",
+    "name": "sofa",
+    "price": "123",
+    "description": "white and beuteaful:)",
+    "image": "sofa.jpeg"
+  },
+  {
+    "key": "9",
+    "name": "table",
+    "price": "123",
+    "description": "white and beuteaful:)",
+    "image": "table.jpeg"
+  },
+  {
+    "key": "10",
+    "name": "violin",
+    "price": "123",
+    "description": "white and beuteaful:)",
+    "image": "violin.jpeg"
+  },
+  {
+    "key": "11",
+    "name": "watch",
+    "price": "123",
+    "description": "white and beuteaful:)",
+    "image": "watch.jpeg"
+  }
+]
